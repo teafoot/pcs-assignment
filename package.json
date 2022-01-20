@@ -1,0 +1,16 @@
+{
+    "name": "cypress-automation-framework",
+    "version": "1.0.0",
+    "description": "Cypress Automation Framework",
+    "main": "index.js",
+    "scripts": {
+        "pcs": "npx cypress run --spec cypress/integration/pcs/* --headed --browser electron --no-exit"
+    },
+    "author": "David",
+    "license": "ISC",
+    "devDependencies": {
+        "cypress": "^7.2.0",
+        "cypress-xpath": "^1.6.2",
+        "mocha": "^8.4.0"
+    }
+}

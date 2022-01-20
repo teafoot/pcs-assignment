@@ -1,0 +1,11 @@
+{
+  "viewportWidth": 1366,
+  "viewportHeight": 768,
+  "pageLoadTimeout": 120000,
+  "defaultCommandTimeout": 5000,
+  "requestTimeout": 10000,
+  "watchForFileChanges": false,
+  "chromeWebSecurity": false,
+  "ignoreTestFiles": "**/test/*.js",
+  "projectId": "cq4ysr"
+}
