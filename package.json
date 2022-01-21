@@ -4,7 +4,7 @@
     "description": "Cypress Automation Framework",
     "main": "index.js",
     "scripts": {
-        "pcs": "npx cypress run --spec cypress/integration/pcs/* --headed --browser electron --no-exit"
+        "pcs": "npx cypress run --spec cypress/integration/pcs/* --headed --browser electron"
     },
     "author": "David",
     "license": "ISC",
